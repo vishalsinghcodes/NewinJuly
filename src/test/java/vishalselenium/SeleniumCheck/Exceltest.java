@@ -42,7 +42,12 @@ public class Exceltest {
 					Iterator<Cell> cc = r.cellIterator();
 					cc.next();
 					
-						req = cc.next().getStringCellValue();
+						
+					
+					//fffffffff
+					
+					
+					req = cc.next().getStringCellValue();
 				//	ri.next();
 
 				}
